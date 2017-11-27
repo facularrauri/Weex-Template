@@ -4,5 +4,6 @@
 
 ``` bash
 weexpack platform add ios
+weexpack platform add android
 ```
 
