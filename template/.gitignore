@@ -1,0 +1,12 @@
+# logs
+*.log
+.idea
+npm-debug.log*
+
+# dependencies
+/node_modules
+/dist
+
+# cache files
+.DS_Store
+.npm
