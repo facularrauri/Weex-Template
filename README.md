@@ -1,8 +1,10 @@
 # Weex template based on yanxuan-weex-demo
 
 ## Usage
-
 ```
+$ npm install -g vue-cli
+$ vue init facularrauri/Weex-Template <YourProyectName>
+cd YourProyectName
 $ npm install
 ```
 
