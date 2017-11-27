@@ -3,6 +3,7 @@
 ## Usage
 ```
 $ npm install -g vue-cli
+$ npm install -g weex-toolkit
 $ vue init facularrauri/Weex-Template <YourProyectName>
 cd YourProyectName
 $ npm install
