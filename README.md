@@ -1,6 +1,6 @@
-# WEEX TEMPLATE BASED ON yanxuan-weex-demo
+# Weex template based on yanxuan-weex-demo
 
-## USAGE
+## Usage
 
 ```
 $ npm install
@@ -19,7 +19,7 @@ $ npm run dev & npm run serve
 ## Ios
 
 ``` 
-$ weexpack platform add ios
+$ weex platform add ios
 cd */platform/ios
 $ pod install
 ```
@@ -31,7 +31,7 @@ $ weex run ios
 ## Android
 
 ``` 
-$ weexpack platform add android
+$ weex platform add android
 ```
 ```
 $ weex run android
